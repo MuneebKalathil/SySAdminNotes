@@ -1,5 +1,5 @@
 # SyS Admin Notes
-<h2> Topics </h2> <br>
+<h3 Topics </h3> 
 1) Submitting Projects to Github <br>
 2) Long Boot time for Windows<br>
 
