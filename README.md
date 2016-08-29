@@ -1,4 +1,9 @@
 # SyS Admin Notes
+<h2> Topics </h2> <br>
+1) Submitting Projects to Github <br>
+2) Long Boot time for Windows<br>
+
+----------------------------------------<br>
 <b>1) Submitting Projects to Github</b><br>
 Register Github Account and create a Project.<br>
 Install Git on your System.<br>
