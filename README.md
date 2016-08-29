@@ -1,7 +1,7 @@
 # SyS Admin Notes
 <h3> Topics </h3>
 1) Submitting Projects to Github <br>
-2) Installing Softwares on  Ubuntu/CentOS/OpenSuse
+2) Installing Softwares on  Ubuntu/CentOS/OpenSuse<br>
 3) Long Boot time for Windows<br>
 
 ----------------------------------------<br>
@@ -47,8 +47,8 @@ OpenSuse
 ```shell
 sudo apt-get install vim 
 sudo rpm -ivh <vim_package.rpm>
-sudo zypper install vim
-```<br>
+sudo zypper install vim```
+```
 
 <b>3) Long Boot time for Windows</b><br>
 Start in Safe Mode.<br>
