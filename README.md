@@ -47,7 +47,7 @@ OpenSuse
 ```shell
 sudo apt-get install vim 
 sudo rpm -ivh <vim_package.rpm>
-sudo zypper install vim```
+sudo zypper install vim
 ```
 
 <b>3) Long Boot time for Windows</b><br>
