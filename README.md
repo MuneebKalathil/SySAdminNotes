@@ -1,7 +1,8 @@
 # SyS Admin Notes
 <h2> Topics </h2> <br>
 1) Submitting Projects to Github <br>
-2) Long Boot time for Windows<br>
+2) Installing Softwares on  Ubuntu/CentOS/OpenSuse
+3) Long Boot time for Windows<br>
 
 ----------------------------------------<br>
 <b>1) Submitting Projects to Github</b><br>
@@ -30,9 +31,26 @@ Pulling from Github to your System<br>
 ```git pull origin master```<br><br>
 <i>Yes !! Done your first Github project </i>
 
+<b>2) Installing Softwares on  Ubuntu/CentOS/OpenSuse</b> <br>
+For installing vim <br>
+Ubuntu<br>
+```shell
+sudo apt-get install vim
+dpkg -i <vim_package.deb>
+```
+CentOS<br>
+```shell
+rpm -ivh <vim_package.rpm>
+yum install vim
+```
+OpenSuse
+```shell
+sudo apt-get install vim 
+sudo rpm -ivh <vim_package.rpm>
+sudo zypper install vim
+```<br>
 
-
-<b>2) Long Boot time for Windows</b><br>
+<b>3) Long Boot time for Windows</b><br>
 Start in Safe Mode.<br>
      While Booting, Press ```F5 or F8``` Continously.<br>
      Select Safe Mode or Direct Services Mode.<br>
